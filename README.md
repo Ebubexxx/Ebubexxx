@@ -30,9 +30,9 @@ Hi there 👋
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical" alt="My Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ebubexxx&show_icons=true&theme=radical" alt="My Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebubexxx&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
