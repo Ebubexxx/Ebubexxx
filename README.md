@@ -29,11 +29,20 @@ Hi there 👋
 ---
 
 ### 📊 My GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ebubexxx&show_icons=true&theme=radical" alt="My Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebubexxx&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+### 🚀 Live Project
+Check out my latest work here:  
+**[clients-blush-nine.vercel.app](https://clients-blush-nine.vercel.app/)**
+
+---
 
 ---
 
